@@ -1,4 +1,4 @@
-second project=dice rolling game
+first project=dice rolling game
 import random 
 
 while True:
